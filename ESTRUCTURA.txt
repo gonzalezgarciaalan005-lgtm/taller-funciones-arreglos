@@ -1,0 +1,24 @@
+README.md
+Trabajo algoritmos_2.pdf
+arreglos
+arreglos/ejercicio1.js
+arreglos/ejercicio2.js
+arreglos/ejercicio3.js
+arreglos/ejercicio4.js
+arrow-functions
+arrow-functions/ejercicio1.js
+arrow-functions/ejercicio2.js
+funciones
+funciones/ejercicio1.js
+funciones/ejercicio2.js
+metodos-array
+metodos-array/ejercicio1.js
+metodos-array/ejercicio10.js
+metodos-array/ejercicio2.js
+metodos-array/ejercicio3.js
+metodos-array/ejercicio4.js
+metodos-array/ejercicio5.js
+metodos-array/ejercicio6.js
+metodos-array/ejercicio7.js
+metodos-array/ejercicio8.js
+metodos-array/ejercicio9.js
